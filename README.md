@@ -7,3 +7,12 @@ Practicing with openclaw
 - Branch protection: To be configured on GitHub
 
 This repository is now ready for safe OpenClaw collaboration.
+
+## How OpenClaw Will Work
+
+1. **Always create feature branches** like this one
+2. **Make changes** and commit
+3. **Push to GitHub**
+4. **Create Pull Request** for your review
+5. **Wait for approval** before merging
+
