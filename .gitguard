@@ -1,0 +1,6 @@
+# OpenClaw Safety Rules
+# 1. Never push directly to main/master
+# 2. Always create feature branches
+# 3. Ask before destructive operations
+# 4. Respect CODEOWNERS if present
+
