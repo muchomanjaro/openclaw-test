@@ -17,3 +17,4 @@ This repository is now ready for safe OpenClaw collaboration.
 5. **Wait for approval** before merging
 
 # Test direct push - should be blocked by branch protection
+# Testing branch protection workflow
