@@ -16,3 +16,4 @@ This repository is now ready for safe OpenClaw collaboration.
 4. **Create Pull Request** for your review
 5. **Wait for approval** before merging
 
+# Test direct push - should be blocked by branch protection
